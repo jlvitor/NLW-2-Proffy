@@ -1,9 +1,9 @@
 # NLW-2-Proffy
 Proffy | Sua plataforma de estudos online
 
-<p align="center">
+<!-- <p align="center"> 
   <img src="https://ik.imagekit.io/capitao/Proffy/nlw2_6d7PvlHZ5.svg" width="150" >
-</p>
+</p> -->
 
 
 ## 📋 Índice
@@ -15,11 +15,11 @@ Proffy | Sua plataforma de estudos online
 
 ---
 
-## 🖥 Preview 
+<!-- ## 🖥 Preview 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://ik.imagekit.io/capitao/Proffy/final_1596781937_urgAUoPC-.jpg" width="700" >
-</p>
+</p> 
 
 ---
 
@@ -48,10 +48,10 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ```bash
 # Clonar o repositório
-git clone 
+git clone https://github.com/jlvitor/NLW-2-Proffy.git
 
 # Entrar no diretório
-cd proffy-discovery
+cd NLW-2-Proffy
 
 # Baixar as dependências
 npm i
@@ -65,4 +65,4 @@ Feito isso, abra o seu navegador e acesse `http://localhost:5500/`
 ---
 
 
-Desenvolvido com 💜 por Guilherme Capitão
+Desenvolvido com 💜 por Jean Lucas Vitor
