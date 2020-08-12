@@ -1,9 +1,9 @@
 # NLW-2-Proffy
 Proffy | Sua plataforma de estudos online
 
-<!-- <p align="center"> 
-  <img src="https://ik.imagekit.io/capitao/Proffy/nlw2_6d7PvlHZ5.svg" width="150" >
-</p> -->
+<p align="center"> 
+  <img src="https://imgur.com/a/EeAxB26" width="150" >
+</p>
 
 
 ## 📋 Índice
