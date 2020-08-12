@@ -2,7 +2,7 @@
 Proffy | Sua plataforma de estudos online
 
 <p align="center"> 
-  <img src="https://imgur.com/a/EeAxB26" width="150" >
+  <img src="https://imgur.com/a/stqy1rL" width="150" >
 </p>
 
 
