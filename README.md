@@ -1,10 +1,7 @@
 # NLW-2-Proffy
 Proffy | Sua plataforma de estudos online
 
-<p align="center"> 
-  <img src="https://imgur.com/gallery/stqy1rL" width="150" >
-</p>
-
+---
 
 ## 📋 Índice
 
@@ -12,14 +9,6 @@ Proffy | Sua plataforma de estudos online
 - [Tecnologias utilizadas](#-Tecnologias-utilizadas)
 - [Como executar o projeto](#-Como-executar-o-projeto)
 - [Preview](#-Preview)
-
----
-
-<!-- ## 🖥 Preview -->
-
-<!-- <p align="center">
-  <img src="https://ik.imagekit.io/capitao/Proffy/final_1596781937_urgAUoPC-.jpg" width="700" >
-</p> -->
 
 ---
 
